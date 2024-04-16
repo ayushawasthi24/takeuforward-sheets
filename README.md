@@ -10,6 +10,6 @@ The repository is organized into folders corresponding to different sections or 
 Contributions are welcome! If you have alternative solutions, improvements, or additional explanations for any problem, feel free to open a pull request. Please ensure that your contributions adhere to the repository's coding conventions and standards.
 
 ## Author
-**[Ayush Awasthi]**
+**Ayush Awasthi**
 - GitHub: [GitHub](https://github.com/ayushawasthi24)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ayush-awasthi-a232b8254/)
