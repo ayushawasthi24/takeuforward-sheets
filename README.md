@@ -14,7 +14,6 @@ Contributions are welcome! If you have alternative solutions, improvements, or a
 - GitHub: [GitHub](https://github.com/ayushawasthi24)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ayush-awasthi-a232b8254/)
 
-## Authors
 **Jasmer Sanjotra**
 - GitHub: [GitHub](https://github.com/TheAlphaJas)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/jasmer-singh-sanjotra-a05b95250/)
