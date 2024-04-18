@@ -13,7 +13,7 @@ Contributions are welcome! If you have alternative solutions, improvements, or a
 **Ayush Awasthi** 
 - GitHub: [GitHub](https://github.com/ayushawasthi24)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ayush-awasthi-a232b8254/)
-- - Department of Electrical Engineering, Indian Institute of Technology (IIT) Indore
+- Department of Electrical Engineering, Indian Institute of Technology (IIT) Indore
 
 **Jasmer Sanjotra** 
 - GitHub: [GitHub](https://github.com/TheAlphaJas)
