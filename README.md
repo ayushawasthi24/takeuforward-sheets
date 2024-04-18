@@ -1,7 +1,7 @@
 # TakeUForward DSA Sheet Solutions
 
 ## Overview
-This repository contains my solutions to the data structures and algorithms (DSA) practice problems from the TakeUForward DSA Sheet. 
+This repository contains solutions to the Data Structures and Algorithms (DSA) practice problems from the TakeUForward DSA Sheet. 
 
 ## Structure
 The repository is organized into folders corresponding to different sections or topics covered in the DSA sheet. Each folder contains the solutions to problems related to that particular topic. Additionally, there's a README file within each folder providing context and explanations where necessary.
