@@ -1,4 +1,4 @@
-# TakeUForward DSA Sheet Solutions
+# TakeUForward Solutions
 
 ## Overview
 This repository contains solutions to practice problems from the TakeUForward Data Structure and Algorithms (DSA) and Competitive Programming (CP) sheets. 
