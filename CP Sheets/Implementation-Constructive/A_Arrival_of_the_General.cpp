@@ -35,6 +35,7 @@ void solve() {
             ans--;
         }
     }
+    
     cout << ans << endl;
 }
 
